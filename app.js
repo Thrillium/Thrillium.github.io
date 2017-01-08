@@ -9,7 +9,7 @@ var config = {
   app_name: 'Thrillium Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LdC8xAUAAAAAOrnHUNyHtZ0dHooolUb58f5IjA0',  // <----- EDIT ME!
   redirect_uri: 'https://thrillium.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
