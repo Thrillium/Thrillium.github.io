@@ -1849,7 +1849,7 @@ var FaucetTabContent = React.createClass({
     if (!worldStore.state.user) {
       return el.p(
         {className: 'lead'},
-        'You must login to claim faucet'
+        'You must login to claim free bits'
       );
     }
 
