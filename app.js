@@ -1674,7 +1674,7 @@ var Tabs = React.createClass({
               href: 'javascript:void(0)',
               onClick: this._makeTabChangeHandler('FAUCET')
             },
-            el.span(null, 'Faucet ')
+            el.span(null, 'Free Bits ')
           )
         )
     );
